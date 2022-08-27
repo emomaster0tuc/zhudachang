@@ -3,11 +3,11 @@
 # 公众号appId
 "app_id": "wx0cd0014c1bd8125c",
 # 公众号appSecret
-"app_secret": "c81a82b2caf2d1d759880a0cc9867ef1",
+"app_secret": "52080ac373433f0e6d06be5863c71a04",
 # 模板消息id
-"template_id": "BWQ317LRpCpM9lzkpyZnGDL6W52ZzTHcEsi3pWeTqXk",
+"template_id": "PDiCSEIRbbNUy26gfa6TvxoPuV-dpqMvQ6eiC2vCKho",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-"user": ["odlud6VguV671A9pxvsII-n5Hi20"，“odlud6VWWAzXJyecccJiA4uHNd2M”],
+"user": ["odlud6VguV671A9pxvsII-n5Hi20",“odlud6VWWAzXJyecccJiA4uHNd2M”],
 
 # 信息配置
 # 和风天气apikey
@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上
 "love_date": "2020-11-28",
 # 金句中文，如果为空，默认会读取金山的每日金句
-"note_ch": "身边一直是同一个人确实值得炫耀",
+"note_ch": "身边一直是同一个人确实值得炫耀!",
 # 金句英文
-"note_en": ""
+"note_en": "Miss you everyday!"
 }
